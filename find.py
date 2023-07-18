@@ -30,8 +30,8 @@ def get_urls_m(driver, PAGE, LINK_OF_PRODUCTS):
     try:
         while True:
             URL = (
-                f'''https://www.zara.com/kz/ru/
-                muzhchiny-rubashki-l737.html?v1=2297813&page=''' + str(PAGE))
+                f"""https://www.zara.com/kz/ru/
+                muzhchiny-rubashki-l737.html?v1=2297813&page=""" + str(PAGE))
             driver.get(URL)
             time.sleep(2)
             wb_search = driver.find_elements(
