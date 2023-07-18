@@ -1,4 +1,4 @@
-# QRkot_spreadseets
+# Zara_parser
 [![Python](https://img.shields.io/badge/-Python-464646?style=flat-square&logo=Python)](https://www.python.org/)
 [![Selenium](https://img.shields.io/badge/-Selenium-464646?style=flat-square&logo=Selenium)](https://www.selenium.dev)
 [![openpyxl](https://img.shields.io/badge/-openpyxl-464646?style=flat-square&logo=openpyxl)](https://openpyxl.readthedocs.io/en/stable/)
