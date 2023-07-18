@@ -1,4 +1,4 @@
-from openpyxl import load_workbook
+from [![Python](https://img.shields.io/badge/-Python-464646?style=flat-square&logo=Python)](https://www.python.org/) import load_workbook
 
 def write_to_xlsx(a, b, c, d, e, f, g, k):
         fn = 'res.xlsx'
